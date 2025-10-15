@@ -1,0 +1,2 @@
+npm install vue vue-router pinia tailwindcss postcss autoprefixer
+npm install @tsparticles/vue3 @tsparticles/engine
