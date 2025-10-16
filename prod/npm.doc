@@ -1,0 +1,4 @@
+npm install express mysql2 sequelize dotenv cors helmet express-rate-limit bcryptjs
+
+# Dépendances de développement (pour le redémarrage auto)
+npm install -D nodemon
