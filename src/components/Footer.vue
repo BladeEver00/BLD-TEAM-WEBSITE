@@ -1,4 +1,3 @@
-<!-- src/components/Footer.vue -->
 <template>
   <footer class="bg-black border-t border-yellow-500/20">
     
@@ -8,9 +7,16 @@
         
         <!-- Colonne 1: À propos -->
         <div class="space-y-4">
-          <div class="mb-6">
-            <span class="block text-xl font-bold text-white">BLD</span>
-            <span class="block text-xl font-bold text-yellow-400">TEAM</span>
+          <div class="flex items-center gap-3 mb-6">
+            <div class="w-12 h-12 bg-gradient-to-br from-yellow-400 to-yellow-600 rounded-xl flex items-center justify-center shadow-lg shadow-yellow-500/30">
+              <svg class="w-7 h-7 text-black" fill="currentColor" viewBox="0 0 20 20">
+                <path d="M10 2L3 7v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V7l-7-5z"/>
+              </svg>
+            </div>
+            <div>
+              <span class="block text-xl font-bold text-white">BLD</span>
+              <span class="block text-xl font-bold text-yellow-400">TEAM</span>
+            </div>
           </div>
           <p class="text-gray-400 text-sm leading-relaxed">
             Born to Lead Dragons. Une équipe de passionnés déterminée à dominer la scène compétitive française.
@@ -95,9 +101,9 @@
             <p>&copy; {{ new Date().getFullYear() }} BLD TEAM. Tous droits réservés.</p>
           </div>
           <div class="flex flex-wrap justify-center gap-6 text-sm">
-            <a href="#" class="text-gray-500 hover:text-yellow-400 transition-colors">Politique de Confidentialité</a>
-            <a href="#" class="text-gray-500 hover:text-yellow-400 transition-colors">Conditions d'Utilisation</a>
-            <a href="#" class="text-gray-500 hover:text-yellow-400 transition-colors">Mentions Légales</a>
+            <router-link to="/privacy" class="text-gray-500 hover:text-yellow-400 transition-colors">Politique de Confidentialité</router-link>
+            <router-link to="/terms" class="text-gray-500 hover:text-yellow-400 transition-colors">Conditions d'Utilisation</router-link>
+            <router-link to="/legal" class="text-gray-500 hover:text-yellow-400 transition-colors">Mentions Légales</router-link>
           </div>
         </div>
       </div>

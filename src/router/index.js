@@ -8,6 +8,9 @@ import Media from '../pages/Media.vue'
 import News from '../pages/News.vue'
 import Contact from '../pages/Contact.vue'
 import Recruitement from '../pages/Recruitement.vue'
+import Privacy from '../pages/Privacy.vue'
+import Legal from '../pages/Legal.vue'
+import Terms from '../pages/Terms.vue'
 
 const routes = [
   { path: '/', name: 'Home', component: Home },
@@ -17,6 +20,10 @@ const routes = [
   { path: '/news', name: 'News', component: News },
   { path: '/contact', name: 'Contact', component: Contact },
   { path: '/recrutement', name: 'Recruitement', component: Recruitement },
+  { path: '/privacy', name: 'Privacy', component: Privacy},
+  { path: '/legal', name: 'Legal', component: Legal},
+  { path: '/terms', name: 'Terms', component: Terms},
+
 ]
 
 const router = createRouter({
