@@ -191,48 +191,48 @@ const roles = [
 const players = ref([
   {
     id: 1,
-    name: 'DragonSlayer',
+    name: 'D5 Jox',
     role: 'TOP',
-    champion: 'Aatrox',
-    rank: 'Master',
-    photo: 'https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=400',
-    championImage: 'https://images.unsplash.com/photo-1542751371-adc38448a05e?w=800'
+    champion: 'Shen',
+    rank: 'Platine',
+    photo: 'https://cdn.discordapp.com/avatars/437992292138221569/e96b0fe6c3e2176b77e752239ab07b90.webp?size=256',
+    championImage: 'https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shen_0.jpg'
   },
   {
     id: 2,
-    name: 'ShadowClaw',
+    name: 'naylek',
     role: 'JUNGLE',
-    champion: 'Lee Sin',
-    rank: 'Grandmaster',
-    photo: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400',
-    championImage: 'https://images.unsplash.com/photo-1511512578047-dfb367046420?w=800'
+    champion: 'Maokai',
+    rank: 'Platine',
+    photo: 'https://cdn.discordapp.com/avatars/305490509499990016/ddb4e90f24fef0cc37a73d0fd62205de.webp?size=256',
+    championImage: 'https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Maokai_0.jpg'
   },
   {
     id: 3,
-    name: 'ArcanePulse',
+    name: 'Vyzero',
     role: 'MID',
-    champion: 'Syndra',
-    rank: 'Challenger',
-    photo: 'https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400',
-    championImage: 'https://images.unsplash.com/photo-1579546929518-9e396f3cc809?w=800'
+    champion: 'Vex',
+    rank: 'Emeraude',
+    photo: 'https://cdn.discordapp.com/avatars/175258795197464576/39d8af28d2aba8b18f17e88ad31ce634.webp?size=256',
+    championImage: 'https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vex_0.jpg'
   },
   {
     id: 4,
-    name: 'GoldenArrow',
+    name: 'Nαvα',
     role: 'ADC',
-    champion: 'Jhin',
-    rank: 'Master',
-    photo: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400',
-    championImage: 'https://images.unsplash.com/photo-1552820728-8b83bb6b773f?w=800'
+    champion: 'KaiSa',
+    rank: 'Emeraude',
+    photo: 'https://cdn.discordapp.com/avatars/299541377144848385/6258916133f0098bf167f75d0d8b97a2.webp?size=512',
+    championImage: 'https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kaisa_0.jpg'
   },
   {
     id: 5,
-    name: 'LightBearer',
+    name: 'Stickos',
     role: 'SUPPORT',
     champion: 'Thresh',
     rank: 'Master',
-    photo: 'https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=400',
-    championImage: 'https://images.unsplash.com/photo-1614680376593-902f74cf0d41?w=800'
+    photo: 'https://cdn.discordapp.com/avatars/361153261928972288/4f1866947121009952b4a109f694b48a.webp?size=256',
+    championImage: 'https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Thresh_0.jpg'
   }
 ])
 
