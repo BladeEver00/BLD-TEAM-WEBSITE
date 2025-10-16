@@ -193,10 +193,10 @@ const players = ref([
     id: 1,
     name: 'D5 Jox',
     role: 'TOP',
-    champion: 'Shen',
+    champion: 'Camille',
     rank: 'Platine',
     photo: 'https://cdn.discordapp.com/avatars/437992292138221569/e96b0fe6c3e2176b77e752239ab07b90.webp?size=256',
-    championImage: 'https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shen_0.jpg'
+    championImage: 'https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Camille_2.jpg'
   },
   {
     id: 2,
@@ -205,7 +205,7 @@ const players = ref([
     champion: 'Maokai',
     rank: 'Platine',
     photo: 'https://cdn.discordapp.com/avatars/305490509499990016/ddb4e90f24fef0cc37a73d0fd62205de.webp?size=256',
-    championImage: 'https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Maokai_0.jpg'
+    championImage: 'https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Maokai_6.jpg'
   },
   {
     id: 3,
@@ -214,25 +214,25 @@ const players = ref([
     champion: 'Vex',
     rank: 'Emeraude',
     photo: 'https://cdn.discordapp.com/avatars/175258795197464576/39d8af28d2aba8b18f17e88ad31ce634.webp?size=256',
-    championImage: 'https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vex_0.jpg'
+    championImage: 'https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vex_1.jpg'
   },
   {
     id: 4,
     name: 'Nαvα',
     role: 'ADC',
-    champion: 'KaiSa',
+    champion: 'Ashe',
     rank: 'Emeraude',
     photo: 'https://cdn.discordapp.com/avatars/299541377144848385/6258916133f0098bf167f75d0d8b97a2.webp?size=512',
-    championImage: 'https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kaisa_0.jpg'
+    championImage: 'https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ashe_9.jpg', 
   },
   {
     id: 5,
     name: 'Stickos',
     role: 'SUPPORT',
     champion: 'Thresh',
-    rank: 'Master',
+    rank: 'Emeraude',
     photo: 'https://cdn.discordapp.com/avatars/361153261928972288/4f1866947121009952b4a109f694b48a.webp?size=256',
-    championImage: 'https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Thresh_0.jpg'
+    championImage: 'https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Thresh_6.jpg'
   }
 ])
 

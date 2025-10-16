@@ -22,6 +22,7 @@ app.use('/api/applications', require('./routes/applicationRoutes'));
 app.use('/api/matches', require('./routes/matchRoutes'));
 app.use('/api/media', require('./routes/mediaRoutes'));
 app.use('/api/stats', require('./routes/statsRoutes'));
+app.use('/api/news', require('./routes/newsRoutes')); 
 
 // --- GESTION D'ERREURS (DOIT ÊTRE APRÈS LES ROUTES) ---
 app.use(errorHandler);
