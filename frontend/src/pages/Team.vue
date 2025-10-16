@@ -242,24 +242,24 @@ const players = ref([
 const staffMembers = ref([
   {
     id: 1,
-    name: 'Phoenix Coach',
-    role: 'Head Coach',
-    description: 'Expert stratégique avec 5 ans d\'expérience en coaching e-sport',
-    photo: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400'
+    name: 'Tyro',
+    role: 'Community Manager',
+    description: 'Spécialiste en communication digital et animation de communautés gaming',
+    photo: 'https://cdn.discordapp.com/avatars/1014506805977698415/def88fb0f485b2c8b6161402b29fde29.webp?size=512'
   },
   {
     id: 2,
-    name: 'DataMaster',
-    role: 'Analyste',
-    description: 'Spécialiste en analyse de données et statistiques de performance',
-    photo: 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400'
+    name: 'blaDD',
+    role: 'Fondateur & Manager',
+    description: 'Visionnaire et leader technique, il pilote BLD TEAM avec passion et expertise depuis sa création',
+    photo: 'https://cdn.discordapp.com/avatars/707626355709313086/1a2468dc29469d10358f7e408c1ef104.webp?size=512'
   },
   {
     id: 3,
-    name: 'MindGuru',
-    role: 'Coach Mental',
-    description: 'Accompagnement psychologique et gestion du stress compétitif',
-    photo: 'https://images.unsplash.com/photo-1580489944761-15a19d654956?w=400'
+    name: 'Neotyss',
+    role: 'Coach',
+    description: 'Coach expérimenté ayant accompagné des équipes sur l’Open Tour et les Challengers avec succès',
+    photo: 'https://cdn.discordapp.com/avatars/228092150934405122/3bf92f7340292499f54ecd29c16f21c9.webp?size=512'
   }
 ])
 

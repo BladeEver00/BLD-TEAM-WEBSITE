@@ -1,7 +1,11 @@
 const express = require('express');
 const router = express.Router();
-const { getAllNews } = require('../controllers/newsController');
+const { getAllNews, createNews } = require('../controllers/newsController');
 
-router.route('/').get(getAllNews);
+const { protect, authorize } = require('../middleware/authMiddleware');
+
+router.route('/')
+  .get(getAllNews)
+  .post(protect, authorize('admin', 'editor'), createNews);
 
 module.exports = router;

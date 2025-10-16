@@ -67,7 +67,7 @@
          <p class="text-lg md:text-xl text-gray-300 leading-relaxed">
   Nous sommes une équipe de passionnés du <span class="text-yellow-400 font-semibold">jeu en équipe</span> 
   qui joue avant tout pour le <span class="text-yellow-400 font-semibold">plaisir</span>.  
-  La BLD TEAM n’est pas une structure compétitive — c’est une communauté soudée de joueurs talentueux 
+  La BLD TEAM n’est pas une structure compétitive — c’est une team soudée de joueurs talentueux 
   qui partagent la même mentalité : progresser, s’entraider et briller ensemble sur la Faille.
 </p>
           
@@ -79,14 +79,14 @@
             </div>
             <div class="text-center">
               <div class="text-4xl font-bold text-yellow-400 mb-2">5</div>
-              <div class="text-sm text-gray-400 uppercase tracking-wide">Joueurs d'élite</div>
+              <div class="text-sm text-gray-400 uppercase tracking-wide">Joueurs</div>
             </div>
             <div class="text-center">
-              <div class="text-4xl font-bold text-yellow-400 mb-2">15+</div>
+              <div class="text-4xl font-bold text-yellow-400 mb-2">2</div>
               <div class="text-sm text-gray-400 uppercase tracking-wide">Victoires</div>
             </div>
             <div class="text-center">
-              <div class="text-4xl font-bold text-yellow-400 mb-2">Top 10</div>
+              <div class="text-4xl font-bold text-yellow-400 mb-2">N/A</div>
               <div class="text-sm text-gray-400 uppercase tracking-wide">Classement</div>
             </div>
           </div>
@@ -190,10 +190,9 @@
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4M7.835 4.697a3.42 3.42 0 001.946-.806 3.42 3.42 0 014.438 0 3.42 3.42 0 001.946.806 3.42 3.42 0 013.138 3.138 3.42 3.42 0 00.806 1.946 3.42 3.42 0 010 4.438 3.42 3.42 0 00-.806 1.946 3.42 3.42 0 01-3.138 3.138 3.42 3.42 0 00-1.946.806 3.42 3.42 0 01-4.438 0 3.42 3.42 0 00-1.946-.806 3.42 3.42 0 01-3.138-3.138 3.42 3.42 0 00-.806-1.946 3.42 3.42 0 010-4.438 3.42 3.42 0 00.806-1.946 3.42 3.42 0 013.138-3.138z"/>
               </svg>
             </div>
-            <h3 class="text-2xl font-bold text-white mb-4 uppercase tracking-wider">Excellence</h3>
+            <h3 class="text-2xl font-bold text-white mb-4 uppercase tracking-wider">Progrès</h3>
             <p class="text-gray-400 leading-relaxed">
-              Viser la perfection dans chaque action, sur et en dehors du jeu. Notre engagement envers l'excellence 
-              nous pousse à nous améliorer constamment.
+            Nous nous engageons à évoluer chaque jour, sur et en dehors du jeu, en apprenant de nos erreurs et en visant une amélioration constante.
             </p>
           </div>
           
